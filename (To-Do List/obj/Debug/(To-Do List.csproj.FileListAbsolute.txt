@@ -1,0 +1,7 @@
+C:\С# ПРОЕКТЫ\(To-Do List\bin\Debug\(To-Do List.exe.config
+C:\С# ПРОЕКТЫ\(To-Do List\bin\Debug\(To-Do List.exe
+C:\С# ПРОЕКТЫ\(To-Do List\bin\Debug\(To-Do List.pdb
+C:\С# ПРОЕКТЫ\(To-Do List\obj\Debug\(To-Do List.csproj.AssemblyReference.cache
+C:\С# ПРОЕКТЫ\(To-Do List\obj\Debug\(To-Do List.csproj.CoreCompileInputs.cache
+C:\С# ПРОЕКТЫ\(To-Do List\obj\Debug\(To-Do List.exe
+C:\С# ПРОЕКТЫ\(To-Do List\obj\Debug\(To-Do List.pdb
